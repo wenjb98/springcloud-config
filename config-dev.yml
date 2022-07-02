@@ -1,0 +1,2 @@
+config:
+  version: springcloud_version=1
